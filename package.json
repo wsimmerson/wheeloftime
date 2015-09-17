@@ -1,6 +1,6 @@
 {
   "name": "wheeloftime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get random names from the wheel of time novel series",
   "main": "index.js",
   "repository": {
