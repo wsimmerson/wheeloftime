@@ -3,6 +3,8 @@
 
 usage:
 
+npm install wheeloftime
+
 ```javascript
 var wot = require('wheeloftime');
 

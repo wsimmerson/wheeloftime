@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "get random names from the wheel of time novel series",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wsimmerson/wheeloftime.git"
+  },
   "scripts": {
     "test": "mocha -R spec"
   },
