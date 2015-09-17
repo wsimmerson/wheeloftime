@@ -3,7 +3,9 @@
 
 usage:
 
+```javascript
 var wot = require('wheeloftime');
 
 wot.get()  // returns a random names
 wot.getList(number) // returns an array with 'number' of random names
+```
