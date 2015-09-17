@@ -1,0 +1,21 @@
+{
+  "name": "wheeloftime",
+  "version": "1.0.0",
+  "description": "get random names from the wheel of time novel series",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "keywords": [
+    "wheel",
+    "time",
+    "names",
+    "generator"
+  ],
+  "author": "Wayne Simmerson",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.2"
+  }
+}
