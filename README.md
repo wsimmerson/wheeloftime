@@ -1,4 +1,4 @@
-<h2>Wheel of Time</h2>
+<h2>Wheel of Time</h2> [![Build Status](https://travis-ci.org/wsimmerson/wheeloftime.svg?branch=master)](https://travis-ci.org/wsimmerson/wheeloftime)
 <h3>Fan of the Wheel of Time series?  Have a need to generate random names? This module is for you!</h3>
 
 usage:
